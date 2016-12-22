@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rails.Api", "Rails.Api\Rails.Api.csproj", "{B1D044E9-6134-4FB8-A8DB-45413B860301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rails.Api.Models", "Rails.Api.Models\Rails.Api.Models.csproj", "{7A09AF24-B7FA-4E02-A968-2EC41F16DC15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rails.Harness", "Rails.Harness\Rails.Harness.csproj", "{27658B51-40E0-476E-8F3A-96292A248451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rails.Utilities", "Rails.Utilities\Rails.Utilities.csproj", "{5532240E-9ABE-4BA8-BCF6-0A067AE32C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D044E9-6134-4FB8-A8DB-45413B860301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D044E9-6134-4FB8-A8DB-45413B860301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D044E9-6134-4FB8-A8DB-45413B860301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D044E9-6134-4FB8-A8DB-45413B860301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A09AF24-B7FA-4E02-A968-2EC41F16DC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A09AF24-B7FA-4E02-A968-2EC41F16DC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A09AF24-B7FA-4E02-A968-2EC41F16DC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A09AF24-B7FA-4E02-A968-2EC41F16DC15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27658B51-40E0-476E-8F3A-96292A248451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27658B51-40E0-476E-8F3A-96292A248451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27658B51-40E0-476E-8F3A-96292A248451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27658B51-40E0-476E-8F3A-96292A248451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5532240E-9ABE-4BA8-BCF6-0A067AE32C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5532240E-9ABE-4BA8-BCF6-0A067AE32C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5532240E-9ABE-4BA8-BCF6-0A067AE32C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5532240E-9ABE-4BA8-BCF6-0A067AE32C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
