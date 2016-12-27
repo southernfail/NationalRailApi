@@ -1,6 +1,6 @@
 ﻿namespace Rails.Api.Models.Journeys
 {
-    public abstract class Point
+    public abstract class Point : IPoint
     {
         public Station Station { get; set; }
         public bool Completed { get; set; }

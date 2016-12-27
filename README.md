@@ -1,2 +1,6 @@
-# RailRefundTwitterBot
-A Twitter bot tweeting details of trains that are delayed, specifically where a refund is due to commuters intending to use a delayed train. 
+# NationalRailAPI
+A nicer/cleaner API to interacting with NationalRail's journey information services. 
+
+For more detail visit: https://lite.realtime.nationalrail.co.uk/OpenLDBWS/
+
+more to follow. 

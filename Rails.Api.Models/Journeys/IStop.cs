@@ -2,6 +2,5 @@
 {
     public interface IStop : IArrive, IDepart
     {
-        new Station Station { get; set; }
     }
 }

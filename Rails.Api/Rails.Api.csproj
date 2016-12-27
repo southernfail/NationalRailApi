@@ -42,11 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Client.cs" />
-    <Compile Include="Internal\ProxyFactory.cs" />
-    <Compile Include="Internal\RailsProxyCaller.cs" />
+    <Compile Include="Internal\RailsRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Proxy\Gen\Api.cs" />
     <Compile Include="Proxy\ProxyExtension.cs" />
+    <Compile Include="Internal\RailsResponse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Proxy\gen.cmd" />

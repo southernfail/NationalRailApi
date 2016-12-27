@@ -2,9 +2,8 @@
 
 namespace Rails.Api.Models.Journeys
 {
-    public interface IDepart
+    public interface IDepart: IPoint
     {
-        Station Station { get; set; }
         DateTime ScheduledDeparture { get; set; }
         DateTime EstimatedDeparture { get; set; }
         DateTime? ActualDeparture { get; set; }

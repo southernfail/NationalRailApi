@@ -40,8 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Delay\DelayCalculator.cs" />
-    <Compile Include="Delay\JourneyExtensions.cs" />
+    <Compile Include="Delay\TimingCalculator.cs" />
+    <Compile Include="Delay\TimingExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

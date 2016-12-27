@@ -40,7 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Delay\DelayInformation.cs" />
+    <Compile Include="Journeys\IPoint.cs" />
+    <Compile Include="Timing\TimingInformation.cs" />
+    <Compile Include="Timing\TimingType.cs" />
     <Compile Include="Journeys\IArrive.cs" />
     <Compile Include="Journeys\IDepart.cs" />
     <Compile Include="Journeys\IStop.cs" />
